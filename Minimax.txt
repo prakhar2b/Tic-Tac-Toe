@@ -1,0 +1,11 @@
+Minimax algorithm -- Backtracking 
+
+Source--
+1. http://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/
+2. http://neverstopbuilding.com/minimax
+
+---------------------------------------------------------------------------------------
+
+* Used in decision making and game theory to find optimal
+  move for a player, assuming that your opponent also
+  plays optimally.
